@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuickDealMart</string>
+
+    <string-array name="names">
+        <item>Select the category</item>
+        <item>Vehicles</item>
+        <item>Properties</item>
+        <item>Electronics</item>
+        <item>Clothing and Accessories</item>
+    </string-array>
+
+    <string-array name="second">
+        <item>Select the type</item>
+        <item>Apartments</item>
+        <item>Houses</item>
+        <item>Lands</item>
+    </string-array>
+    <string name="title_activity_apartments">Apartments</string>
+    <string name="title_activity_houses">Houses</string>
+    <string name="title_activity_lands">Lands</string>
+</resources>
